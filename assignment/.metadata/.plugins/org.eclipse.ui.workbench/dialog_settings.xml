@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\Souvik_2\Desktop\empPayroll1.zip"/>
+			<item value="C:\Users\Souvik_2\Desktop\empPayroll.zip"/>
+			<item value="C:\Users\Souvik_2\Desktop\additionalProblem_18700118029.zip"/>
+			<item value="C:\Users\Souvik_2\DesktopadditionalProblem.zip"/>
+			<item value="C:\Users\Souvik_2\Desktop\uditya.zip"/>
+			<item value="C:\Users\Souvik_2\Desktop\assignment9_18700118029.zip"/>
+			<item value="C:\Users\Souvik_2\Desktop\assignment8_18700118029.zip"/>
+			<item value="C:\Users\Souvik_2\Desktop\assignment5_18700118029.zip"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="E:\empPayroll.zip"/>
+			<item value="C:\Users\Souvik_2\Desktop\assignment5_18700118029.zip"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\Souvik_2\Downloads\assignment_18700118029\classroom"/>
+			<item value="C:\Users\Souvik_2\Downloads\assignment_18700118029\account"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>
